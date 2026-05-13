@@ -4,15 +4,19 @@
 
 An iOS app that turns your daily habits and tasks into a growing plant.
 Complete tasks, earn rewards, and watch your plant flourish.
-Built with SwiftUI and CoreData as part of the Apple Developer Academy program.
+Designed with ADHD-friendly principles and built with SwiftUI and CoreData
+as part of the Apple Developer Academy program.
+
+[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/proto/6wVMNYYJMrdljKf5ggaCIE/ADHD?node-id=25-768&t=e9dKj5ZqFberQcMY-1)
+[![Swift](https://img.shields.io/badge/Swift-5.9-FA7343?logo=swift&logoColor=white)](https://swift.org)
+[![Platform](https://img.shields.io/badge/Platform-iOS%2017+-000000?logo=apple)](https://developer.apple.com)
 
 ---
 
-## Screenshots
+## Demo
 
-| Task List | My Plant | Calendar | New Habit |
-|---|---|---|---|
-| ![Tasks](screenshots/tasks.png) | ![Plant](screenshots/plant.png) | ![Calendar](screenshots/calendar.png) | ![New](screenshots/new.png) |
+View the interactive prototype on Figma:
+**[Open Prototype](https://www.figma.com/proto/6wVMNYYJMrdljKf5ggaCIE/ADHD?node-id=25-768&t=e9dKj5ZqFberQcMY-1)**
 
 ---
 
@@ -24,6 +28,7 @@ Built with SwiftUI and CoreData as part of the Apple Developer Academy program.
 - **Today / Upcoming / All** — Filter tasks by timeframe
 - **Rewards System** — Earn rewards by consistently completing your habits
 - **Colour Labels** — Categorise habits with colour coding
+- **ADHD-Friendly Design** — Clean, minimal interface designed to reduce cognitive load
 - **CoreData Persistence** — All data stored locally on device
 
 ---
@@ -50,6 +55,7 @@ Write tasks  →  Complete tasks  →  Earn rewards  →  Watch your plant grow
 | CoreData | Local data persistence |
 | Swift | Programming language |
 | Xcode | IDE |
+| Figma | UI/UX design and prototyping |
 
 ---
 
@@ -58,9 +64,7 @@ Write tasks  →  Complete tasks  →  Earn rewards  →  Watch your plant grow
 ### TestFlight (Beta)
 
 The app is available on TestFlight for beta testing.
-Scan the QR code or use the link below:
-
-> TestFlight link available on request
+Contact the author for access.
 
 ### Build from Source
 
@@ -73,7 +77,7 @@ cd Flourish
 open Flourish.xcodeproj
 ```
 
-Requirements:
+**Requirements:**
 - Xcode 15+
 - iOS 17+
 - Swift 5.9+
@@ -99,9 +103,6 @@ Flourish/
 ## Team
 
 Developed by **FuTura Team** at the Apple Developer Academy, Naples (2024).
-
-- **Amin Entezari** — Development
-- Apple Developer Academy — Naples, Italy
 
 ---
 
